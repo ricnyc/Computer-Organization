@@ -38,4 +38,6 @@ You will build a self-balancing device made from Lego which will be controlled b
 <br>
 <a href="http://www.eecg.utoronto.ca/~henry/ece243/labs/7/microprocessor.html">Detailed information</a>
 <br>
+
+<h4>final project - Airplane launcher</h4>
 </body>
