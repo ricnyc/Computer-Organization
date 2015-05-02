@@ -1,0 +1,62 @@
+<CWVehicle 
+	OffFile="data/Vehicles/truck.off"
+	InitPos="0 3 2 "
+	ChassisPos="0 0.1 0.5 "
+	Mass="1000"
+	MassDistrib="1500"
+	RedLine="8000"
+	MaxTorque="100"
+	Friction="0.5">
+	<CWWheel 
+		RelPos="-0.8 1.4 -0.5 "
+		SpringStiffness="30000"
+		MaxTravel="-0.5"
+		WheelRadius="0.4"
+		DamperCompression="2000"
+		DamperRebound="2000"
+		Grip="1"
+		AccelFactor="4000"
+		BrakeFactor="4000"
+		SteerFactor="0.5"
+		LockUp="0">
+	</CWWheel>
+	<CWWheel 
+		RelPos="0.8 1.4 -0.5 "
+		SpringStiffness="30000"
+		MaxTravel="-0.5"
+		WheelRadius="0.4"
+		DamperCompression="2000"
+		DamperRebound="2000"
+		Grip="1"
+		AccelFactor="4000"
+		BrakeFactor="4000"
+		SteerFactor="0.5"
+		LockUp="0">
+	</CWWheel>
+	<CWWheel 
+		RelPos="-0.8 -1.4 -0.5 "
+		SpringStiffness="30000"
+		MaxTravel="-0.5"
+		WheelRadius="0.4"
+		DamperCompression="2000"
+		DamperRebound="2000"
+		Grip="1"
+		AccelFactor="0"
+		BrakeFactor="4000"
+		SteerFactor="0"
+		LockUp="1">
+	</CWWheel>
+	<CWWheel 
+		RelPos="0.8 -1.4 -0.5 "
+		SpringStiffness="30000"
+		MaxTravel="-0.5"
+		WheelRadius="0.4"
+		DamperCompression="2000"
+		DamperRebound="2000"
+		Grip="1"
+		AccelFactor="0"
+		BrakeFactor="4000"
+		SteerFactor="0"
+		LockUp="1">
+	</CWWheel>
+</CWVehicle>

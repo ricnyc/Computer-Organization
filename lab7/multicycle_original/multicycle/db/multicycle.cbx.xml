@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="multicycle">
+		<CBX_INST_ENTRY INSTANCE_NAME="|multicycle|memory:DataMem|DataMemory:inst|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_djc1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|multicycle|memory:DataMem|mux2to1:inst3|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_smc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|multicycle|mux2o1s:R1Sel_mux|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_mmc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|multicycle|mux2to1:ALU1_mux|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_smc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|multicycle|mux2to1:AddrSel_mux|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_smc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|multicycle|mux2to1:RegMux|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_smc.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|multicycle|mux5to1:ALU2_mux|lpm_mux:lpm_mux_component" CBX_FILE_NAME="mux_1nc.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

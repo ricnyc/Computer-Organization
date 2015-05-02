@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nios2_config version="1.0">
+    <system>
+        <system_info filepath="true">C:\altera\12.0sp2\University_Program\NiosII_Computer_Systems\DE2\DE2_Media_Computer\verilog\nios_system.qsys</system_info>
+        <sample_system_title>DE2 Media Computer</sample_system_title>
+        <system_sof filepath="true">C:\altera\12.0sp2\University_Program\NiosII_Computer_Systems\DE2\DE2_Media_Computer\verilog\DE2_Media_Computer.sof</system_sof>
+        <system_jdi filepath="true"/>
+        <cable>USB-Blaster [USB-0]</cable>
+        <processor JTAGHubInstanceID="0">CPU</processor>
+        <elf_section name="text">
+            <memory_device>SDRAM/s1</memory_device>
+            <memory_start_offset>0</memory_start_offset>
+        </elf_section>
+        <elf_section name="data">
+            <memory_device>SDRAM/s1</memory_device>
+            <memory_start_offset>0</memory_start_offset>
+        </elf_section>
+        <terminal JTAGHubInstanceID="0">JTAG_UART</terminal>
+    </system>
+    <program>
+        <type>ASSEMBLY</type>
+        <options>
+            <source_files>
+                <source_file filepath="true">lab4.s</source_file>
+            </source_files>
+            <start_symbol>main</start_symbol>
+        </options>
+    </program>
+</nios2_config>

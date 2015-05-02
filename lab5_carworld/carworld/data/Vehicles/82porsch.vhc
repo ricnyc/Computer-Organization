@@ -1,0 +1,84 @@
+<CWVehicle
+	ModelFile="data/Vehicles/82porsch.off"
+	ModelPos="0 0 .3"
+	ModelScale="-.4 .4 .4"
+
+	InitPos="0 3 2"
+	Mass="1000"
+	MassDistrib="1500"
+	RedLine="8000"
+	MaxTorque="100"
+	Friction="0.5">
+	<CWWheel
+		ModelFile="data/Vehicles/Wheel.off"
+		ModelPos="0 0 0"
+		ModelScale=".35 .35 .35"
+
+		RelPos="-0.8 1.4 -0.5 "
+		SpringStiffness="30000"
+		MaxTravel="-0.5"
+		MaxLoad="5000"
+		WheelRadius="0.4"
+		DamperCompression="2000"
+		DamperRebound="2000"
+		Grip="1"
+		AccelFactor="4000"
+		BrakeFactor="4000"
+		SteerFactor="0.5"
+		LockUp="0">
+	</CWWheel>
+	<CWWheel
+		ModelFile="data/Vehicles/Wheel.off"
+		ModelPos="0 0 0"
+		ModelScale=".35 .35 .35"
+
+		RelPos="0.8 1.4 -0.5 "
+		SpringStiffness="30000"
+		MaxTravel="-0.5"
+		MaxLoad="5000"
+		WheelRadius="0.4"
+		DamperCompression="2000"
+		DamperRebound="2000"
+		Grip="1"
+		AccelFactor="4000"
+		BrakeFactor="4000"
+		SteerFactor="0.5"
+		LockUp="0">
+	</CWWheel>
+	<CWWheel
+		ModelFile="data/Vehicles/Wheel.off"
+		ModelPos="0 0 0"
+		ModelScale=".35 .35 .35"
+
+		RelPos="-0.8 -1.4 -0.5 "
+		SpringStiffness="30000"
+		MaxTravel="-0.5"
+		MaxLoad="5000"
+		WheelRadius="0.4"
+		DamperCompression="2000"
+		DamperRebound="2000"
+		Grip="1"
+		AccelFactor="0"
+		BrakeFactor="4000"
+		SteerFactor="0"
+		LockUp="1">
+	</CWWheel>
+	<CWWheel
+		ModelFile="data/Vehicles/Wheel.off"
+		ModelPos="0 0 0"
+		ModelScale=".35 .35 .35"
+
+		RelPos="0.8 -1.4 -0.5 "
+		SpringStiffness="30000"
+		MaxTravel="-0.5"
+		MaxLoad="5000"
+		WheelRadius="0.4"
+		DamperCompression="2000"
+		DamperRebound="2000"
+		Grip="1"
+		AccelFactor="0"
+		BrakeFactor="4000"
+		SteerFactor="0"
+		LockUp="1">
+	</CWWheel>
+</CWVehicle>
