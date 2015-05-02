@@ -1,5 +1,6 @@
 # Computer-Organization
 Verilog, Assembly, C and FPGA(DE2)
+<h3><font color="red">Please do not copy and paste my code for any course work. You will take responisiblity for that</font></h4>
 <body>
 <h4>Lab1 - Computer Memory </h4>
 <p>The purpose of this lab is to demonstrate various concepts related to computer memory, such as data representation, endianness, and sign extension. You must do Part 1 of this lab on your own, prior to coming to the microprocessor lab.</p>
@@ -39,5 +40,5 @@ You will build a self-balancing device made from Lego which will be controlled b
 <a href="http://www.eecg.utoronto.ca/~henry/ece243/labs/7/microprocessor.html">Detailed information</a>
 <br>
 
-<h4>final project - Airplane launcher</h4>
+<h4>Final project - Airplane launcher</h4>
 </body>
