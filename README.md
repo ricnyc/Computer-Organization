@@ -24,6 +24,7 @@ You will build a self-balancing device made from Lego which will be controlled b
 <br>
 <h4>Lab5 - Polled I/O</h4>
 <p>In this lab you will use the polling concept for a JTAG UART (Universal Asynchronous Receiver/Transmitter that sends data over the JTAG programming cable) to control a simple game. To poll a device is to actively and continuously check its status to see if it is ready to be used in some way.</p>
+[![ScreenShot](https://www.dropbox.com/s/f5cxdp4ed8z02et/screenshot%209.png?dl=1)](https://www.dropbox.com/s/jlz4k6invr0pnrr/2014-02-21%2021.33.55.mov?dl=0)
 <a href="http://www.eecg.utoronto.ca/~henry/ece243/labs/5/polling.html">Detailed information</a>
 <br>
 <h4>Lab6 - Interrupt-Driven I/O </h4>
