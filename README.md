@@ -1,7 +1,6 @@
 # Computer-Organization
 Verilog, Assembly, C and FPGA(DE2)
-<h3><span style="color:orange;">Please do not copy and paste my code for any course work. You will take responisiblity for that</span></h3>
-<body>
+<h4>Please do not copy, paste my code for any course work. You will take responisiblity for that</h4>
 <h4>Lab1 - Computer Memory </h4>
 <p>The purpose of this lab is to demonstrate various concepts related to computer memory, such as data representation, endianness, and sign extension. You must do Part 1 of this lab on your own, prior to coming to the microprocessor lab.</p>
 <a href="http://www.eecg.utoronto.ca/~henry/ece243/labs/1/">Detailed information</a>
