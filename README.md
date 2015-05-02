@@ -15,6 +15,11 @@ Verilog, Assembly, C and FPGA(DE2)
 <br>
 <h4>Lab4 - Parallel Port and Timer</h4>
 <p>In this lab you will learn how to use the Parallel Interface (JP1/JP2 connectors on the DE2 board) to communicate with another piece of hardware, the Lego controller. The Lego controller connects to motors and sensors, allowing your program to interact with the physical world. You will also learn how to use the Timer peripheral on the DE2 computer to measure delay intervals.</p>
+<p>
+You will build a self-balancing device made from Lego which will be controlled by the Lego controller and the DE2 Nios II processor. In Part 1 of this lab you will implement a basic balancing algorithm to read the sensors and control the motor. In Part 2 you will improve your algorithm by slowing down the motor, using the timer to implement Pulse Width Modulation (PWM).
+</p>
+<img src="https://www.dropbox.com/s/vvg2gfnouqlz13l/2014-02-11%2010.11.05.jpg?dl=1" height="300" width="300">
+<br>
 <a href="http://www.eecg.utoronto.ca/~henry/ece243/labs/4/lego.html">Detailed information</a>
 <br>
 <h4>Lab5 - Polled I/O</h4>
