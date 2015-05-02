@@ -34,7 +34,7 @@ You will build a self-balancing device made from Lego which will be controlled b
 <br>
 <h4>Lab7 - Modifying a Microprocessor</h4>
 <p>The purpose of this lab is to give you practical experience working with and modifying a microprocessor as described and discussed in class.</p>
-<img src="https://www.dropbox.com/s/4xth15zfhdn1w6t/screenshot%208.png?dl=1" height="300" width="300"/>
+<img src="https://www.dropbox.com/s/4xth15zfhdn1w6t/screenshot%208.png?dl=1" height="500" width="800"/>
 <br>
 <a href="http://www.eecg.utoronto.ca/~henry/ece243/labs/7/microprocessor.html">Detailed information</a>
 <br>
